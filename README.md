@@ -11,3 +11,5 @@ Usado JAVA SE
 
 JAVA SE para desenvolvimento DeskTop
 JAVA EE para desenvolvimento WEB
+
+Alteração realizada pelo programador XPTO.
