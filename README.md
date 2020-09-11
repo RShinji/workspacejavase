@@ -8,3 +8,6 @@ Esta Workspace contem os Projetos:
 - 03repeticao
 
 Usado JAVA SE
+
+JAVA SE para desenvolvimento DeskTop
+JAVA EE para desenvolvimento WEB
